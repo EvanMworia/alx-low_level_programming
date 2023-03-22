@@ -2,8 +2,8 @@
 
 /**
  * print_alphabet - prints alphabets
- * 
- * Return: Always 0.
+ *
+ * Return: Always 0:%s/\s\+$//e.
  */
 void print_alphabet(void)
 {
